@@ -1,0 +1,8 @@
+John Smith,Fovam ter 13-15,1093,Budapest,Hungary,+3614861233
+Jane Doe,Baross Street 30,1089,Budapest,Hungary,+3612011233
+Joe Wing,Fo Street ter 8,1022,Budapest,Hungary,+3612011000
+Barbara May,Levay Street 3,1021,Budapest,Hungary,+3612011233
+Julia Bay,Levay Street 5,1021,Budapest,Hungary,+3612011234
+Jane Flower,Levay Street 6,1021,Budapest,Hungary,+3612011235
+Josie High,Levay Street 7,1021,Budapest,Hungary,+3612011236
+Brian Big,Levay Street 8,1021,Budapest,Hungary,+3612011237
